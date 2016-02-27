@@ -1,0 +1,4 @@
+-exportcontents: de.kappich.vew.bmvew.*
+-sources: true
+
+Bundle-Name: de.kappich.vew.bmvew
