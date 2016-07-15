@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/datenverteiler/de.kappich.vew.bmvew.svg?branch=master)](https://travis-ci.org/datenverteiler/de.kappich.vew.bmvew)
-[![Build Status](https://api.bintray.com/packages/datenverteiler/maven/de.kappich.vew.bmvew/images/download.svg)](https://bintray.com/datenverteiler/maven/de.kappich.vew.bmvew)
+[![Build Status](https://travis-ci.org/bitctrl/de.kappich.vew.bmvew.svg?branch=master)](https://travis-ci.org/bitctrl/de.kappich.vew.bmvew)
+[![Build Status](https://api.bintray.com/packages/bitctrl/maven/de.kappich.vew.bmvew/images/download.svg)](https://bintray.com/bitctrl/maven/de.kappich.vew.bmvew)
 
 de.kappich.vew.bmvew v${project.version}
 ===========================
